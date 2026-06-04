@@ -309,6 +309,7 @@ The dashboard displays:
 * Firebase Firestore
 * Telegram Bot API
 
----
+---<img width="1787" height="870" alt="Screenshot 2026-05-22 121212" src="https://github.com/user-attachments/assets/100d57e1-0eb3-4a55-be0d-52b02bfc0a6c" />
+
 
 
