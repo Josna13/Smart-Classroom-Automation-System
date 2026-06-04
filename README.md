@@ -310,6 +310,10 @@ The dashboard displays:
 * Telegram Bot API
 
 ---<img width="1787" height="870" alt="Screenshot 2026-05-22 121212" src="https://github.com/user-attachments/assets/100d57e1-0eb3-4a55-be0d-52b02bfc0a6c" />
+<img width="1533" height="950" alt="Screenshot 2026-05-22 122756" src="https://github.com/user-attachments/assets/605daeed-f6e3-4f13-abf3-842310c40c55" />
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/4e49e3e8-7faf-4189-a3d7-e8162ea33c33" />
+
+
 
 
 
